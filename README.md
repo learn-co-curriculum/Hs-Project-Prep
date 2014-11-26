@@ -5,6 +5,8 @@
 
 ## It's project time!
 
+[img](http://media2.giphy.com/media/KAPxSlQIY5MM8/200.gif)
+
 ### Project Prep
 
 Before you write any code it's important to map out the functionality of your web application and what it is going to look like. Remember MVP (minimum viable product) and start out with the simplest possible functional app that you can create. Once you get that up and running you can add features later. 
