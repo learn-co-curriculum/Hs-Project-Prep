@@ -5,7 +5,7 @@
 
 ## It's project time!
 
-[img](http://media2.giphy.com/media/KAPxSlQIY5MM8/200.gif)
+![img](http://media2.giphy.com/media/KAPxSlQIY5MM8/200.gif)
 
 ### Project Prep
 
