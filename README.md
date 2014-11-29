@@ -25,11 +25,11 @@ Here is a sample project timeline to help you get organized.
 + Complete a project outline and wireframe
 + Set up your Sinatra template
 + Get your routes set up
-+ Create basic versions of your views (with buttons, links, etc. even if you don't have that functionality ready yet) 
++ Create basic versions of your views (with placeholder buttons, links, etc. if you don't have all of the functionality ready yet) 
 
 ###Day 2
 + Set up your models
-+ Get your models connected up to your route
++ Get your models connected up to your routes
 + Test out your app
 
 ###Day 3
