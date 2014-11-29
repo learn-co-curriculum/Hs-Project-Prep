@@ -9,9 +9,11 @@
 
 ### Project Prep
 
-Before you write any code it's important to map out the functionality of your web application and what it is going to look like. Remember MVP (minimum viable product) and start out with the simplest possible functional app that you can create. Once you get that up and running you can add features later. 
+Before you write any code it's important to map out the functionality of your web application and what it is going to look like. Remember MVP (minimum viable product) and start out with the simplest possible functional app that you can create. Once you get that up and running you can start adding more features. 
 
 Check out the wireframing module on Ironboard and try using [Gliffy](http://www.gliffy.com/) to create a blueprint of what your application should look like.
+
+We've also provided a blank Sinatra template on Ironoard that you can fork and clone when you are ready to start building.
 
 ### Project Timeline
 
@@ -23,10 +25,10 @@ Here is a sample project timeline to help you get organized.
 + Complete a project outline and wireframe
 + Set up your Sinatra template
 + Get your routes set up
-+ Create basic versions of your views (with buttons, links, etc. even if you don't have that functionality read yet) 
++ Create basic versions of your views (with buttons, links, etc. even if you don't have that functionality ready yet) 
 
 ###Day 2
-+ Set up your model
++ Set up your models
 + Get your models connected up to your route
 + Test out your app
 
