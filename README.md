@@ -33,6 +33,7 @@ Here is a sample project timeline to help you get organized.
 + Test out your app
 
 ###Day 3
++ Add an about page to your app with an explanation of how you created your project (with code snippets)
 + Debug
 + Make your views look pretty
 + Prepare your demo/presentation
