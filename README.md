@@ -11,7 +11,7 @@
 
 Before you write any code it's important to map out the functionality of your web application and what it is going to look like. Remember MVP (minimum viable product) and start out with the simplest possible functional app that you can create. Once you get that up and running you can start adding more features. 
 
-Check out the wireframing module on Ironboard and try using [Gliffy](http://www.gliffy.com/) to create a blueprint of what your application should look like.
+Check out the wireframing module on Learn and try using [Gliffy](http://www.gliffy.com/) to create a blueprint of what your application should look like.
 
 We've also provided a blank Sinatra template on Ironoard that you can fork and clone when you are ready to start building.
 
