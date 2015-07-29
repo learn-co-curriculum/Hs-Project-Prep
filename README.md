@@ -1,7 +1,4 @@
----
-  tags: project mode, kids
-  languages: ruby
----
+
 
 ## It's project time!
 
