@@ -34,3 +34,5 @@ Here is a sample project timeline to help you get organized.
 + Debug
 + Make your views look pretty
 + Prepare your demo/presentation
+
+<a href='https://learn.co/lessons/hs-project-prep' data-visibility='hidden'>View this lesson on Learn.co</a>
